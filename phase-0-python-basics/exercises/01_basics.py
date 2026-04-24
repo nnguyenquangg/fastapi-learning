@@ -11,6 +11,7 @@ Chạy: python 01_basics.py
 # In ra: Hello, FastAPI!
 # TODO: viết code dưới đây
 
+print("Hello, FastApi!")
 
 # --- Bài 2: Biến và kiểu ---
 # Khai báo các biến sau và in ra type của từng biến:
