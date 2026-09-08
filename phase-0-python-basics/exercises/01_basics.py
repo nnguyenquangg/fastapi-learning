@@ -12,6 +12,9 @@ Chạy: python 01_basics.py
 # TODO: viết code dưới đây
 
 #In ra
+import random
+
+
 print("Hello, FastAPI!")
 
 # --- Bài 2: Biến và kiểu ---
@@ -96,7 +99,7 @@ elif bmi < 25:
   print("Phân loại: Bình thường")
 elif bmi < 25:
   print("Phân loại: Thừa cân")
-elif:
+else:
   print("Phân loại: Béo phì")
 
 
